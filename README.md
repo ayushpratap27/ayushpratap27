@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ayush Pratap 👋</h1>
 
 <p align="center">
-  Full-Stack Developer &nbsp;·&nbsp; Cloud Enthusiast &nbsp;·&nbsp; DSA Practitioner
+  Full-Stack Developer &nbsp;
 </p>
 
 <p align="center">
