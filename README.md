@@ -25,35 +25,35 @@ I'm a full-stack developer who enjoys building things that work well — from re
 
 ### Tech Stack
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<p align="center">
+  <a href="https://kotlinlang.org/docs/home.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
+  <a href="https://cppreference.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=go" alt="Go" /></a>
+  <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
+  <br/>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
+  <a href="https://tailwindcss.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+  <br/>
+  <a href="https://nodejs.org/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
+  <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+  <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://redis.io/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
+  <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <br/>
+  <a href="https://aws.amazon.com/documentation/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
+  <a href="https://firebase.google.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
+  <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://docs.github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://docs.kernel.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://www.gnu.org/software/bash/manual/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
+</p>
 
 ---
 
@@ -78,6 +78,16 @@ I'm a full-stack developer who enjoys building things that work well — from re
 ---
 
 ### GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushpratap27/ayushpratap27/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushpratap27/ayushpratap27/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/ayushpratap27/ayushpratap27/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<br/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayushpratap27&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
