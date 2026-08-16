@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Ayush Pratap 👋</h1>
 
-<p align="center">
-  Full-Stack Developer &nbsp;
-</p>
+<p align="center">Backend  |  Android  |  Full Stack Developer</p>
 
 <p align="center">
   <a href="https://github.com/ayushpratap27">
@@ -12,14 +10,11 @@
 
 ---
 
-### About Me
+## About Me
 
-I'm a full-stack developer who enjoys building things that work well — from real-time web apps and REST APIs to cloud infrastructure and AI-powered tools. I care about clean code, practical solutions, and continually learning.
+Backend-focused developer building **scalable APIs, cloud systems, and AI-powered applications**. I also enjoy working across **Android and full-stack development**.
 
-- Currently working with **React**, **Node.js**, **Go**, and **AWS**
-- Exploring **AI integrations** (Gemini AI, RAG pipelines) in production apps
-- Practising **Data Structures & Algorithms** in C++
-- Open to collaborations on interesting open-source projects
+Always building, learning, and solving problems.
 
 ---
 
