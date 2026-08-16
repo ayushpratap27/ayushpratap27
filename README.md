@@ -56,12 +56,8 @@ Always building, learning, and solving problems.
 
 | Project | Description | Stack |
 |---|---|---|
-| [**SupportIQ**](https://github.com/ayushpratap27/SupportIQ) | AI-powered customer support platform — classifies ticket priority & sentiment, recommends teams, generates context-aware replies using RAG, and includes a human approval workflow | React · Go · PostgreSQL · Gemini AI |
-| [**Chatting-App**](https://github.com/ayushpratap27/Chatting-App) | Real-time chat application with direct messaging and group channels | React · Node.js · Socket.io · MongoDB |
-| [**RealTimeTracker**](https://github.com/ayushpratap27/RealTimeTracker) | Live location tracking with map visualisation, powered by WebSockets | Node.js · Socket.io · Leaflet.js |
-| [**AWS-lift-and-shift**](https://github.com/ayushpratap27/AWS-lift-and-shift) | Java web app migrated to AWS Cloud using a lift-and-shift strategy for improved scalability and security | AWS · Java |
-| [**AWS-AutoListIQ**](https://github.com/ayushpratap27/AWS-AutoListIQ) | Automation script that lists and organises all resources across an AWS account | Shell · AWS |
-| [**MERN Blog**](https://github.com/ayushpratap27/MERN_BLOG) | Full-stack blog with CRUD, authentication, and a responsive Tailwind UI | React · Node.js · MongoDB · Tailwind |
+| [**SupportIQ**](https://github.com/ayushpratap27/SupportIQ) | AI-powered, multi-tenant customer support platform with **real-time ticket management**, JWT authentication, RBAC, background workers, Redis queues, and WebSockets. Integrated **RAG, prompt engineering, and context engineering** with Groq AI for automated ticket triage, replies, and workflow integrations. | Go · React · PostgreSQL · Redis · WebSockets · Groq AI · Docker |
+| [**BaatKarlo**](https://github.com/ayushpratap27/Chatting-App) | AI-powered real-time MERN chat application with **JWT authentication, HTTP-only cookies, bcrypt, REST APIs, WebSockets, and Zustand** for secure, low-latency messaging. Integrated Groq AI for **chat summarization, reply suggestions, grammar correction, and tone enhancement**. | React · Node.js · Express.js · MongoDB · Socket.io · Zustand · Groq AI |
 
 ---
 
@@ -84,10 +80,10 @@ Always building, learning, and solving problems.
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayushpratap27&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpratap27&layout=compact&theme=github_dark&hide_border=true" height="160" />
-</p>
+</p> -->
 
 ---
 
